@@ -1,0 +1,13 @@
+langchain
+chromadb
+transformers
+torch
+faiss-cpu
+numpy
+pandas
+scipy
+tqdm
+fastapi
+uvicorn
+requests
+python-dotenv
